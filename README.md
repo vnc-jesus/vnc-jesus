@@ -6,16 +6,16 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+ ## Sobre mim
 
-🎓 Cursando **Engenharia de Software**  
-💡 Apaixonado por resolver problemas com código  
-🚀 Desenvolvendo um **Sistema de Gestão para Lojas**  
-📚 Estudando **Java, MySQL, Spring Boot e POO**
+ Cursando **Engenharia de Software**  
+ Apaixonado por resolver problemas com código  
+ Desenvolvendo um **Sistema de Gestão para Lojas**  
+ Estudando **Java, MySQL, Spring Boot e POO**
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+##  Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnc-jesus&show_icons=true&theme=radical&count_private=true"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📈 Contribuições
+##  Contribuições
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vnc-jesus&theme=tokyonight&hide_border=false"/>
@@ -44,10 +44,10 @@
 
 ---
 
-## 🌐 Contato
+##  Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-jesus-dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vnc_jesus@live.com)
 
 ---
 
-<p align="center"><b>Obrigado pela visita! 😄</b></p>
+<p align="center"><b>Obrigado pela visita!</p>
